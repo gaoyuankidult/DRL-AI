@@ -1,0 +1,34 @@
+
+TODO list of the Lisp codec
+
+$Revision: 862 $
+$Date: 2009-08-14 16:47:52 +0300 (Fri, 14 Aug 2009) $
+
+
+-------------------------------------------------------------------------------
+
+TITLE:
+Buffer handling refactoring, floating-point optimization.
+
+DESCRIPTION:
+The buffer class should be inherited from the fundamental-binary-stream class, 
+and the usual buffer handling methods, like read-byte and write-byte should be 
+implemented for it.
+
+BENEFIT:
+It would result a cleaner implementation and probably make floating point 
+optimization for possible. It seems to be necessary for these implementations 
+because they only support "raw" floating point coding via streams. See
+ext:read-float and ext:write-float of CLISP...
+
+-------------------------------------------------------------------------------
+
+TITLE:
+Supporting more Lisp implementations.
+
+DESCRIPTION:
+The codec should be changed so to be able to compile and use with ABCL.
+
+BENEFIT:
+Maybe more users.
+

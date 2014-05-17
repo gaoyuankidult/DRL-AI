@@ -1,0 +1,1 @@
+RL-Glue (Reinforcement Learning Glue) provides a standard interface that allows you to connect reinforcement learning [wikipedia.com] agents, environments, and experiment programs together, even if they are written in different languages. 

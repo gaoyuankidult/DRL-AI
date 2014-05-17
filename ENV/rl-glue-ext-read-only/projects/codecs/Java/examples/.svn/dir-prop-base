@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 106
+mines-sarsa-sample http://rl-library.googlecode.com/svn/trunk/projects/packages/examples/mines-sarsa-java
+
+END

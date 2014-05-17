@@ -1,0 +1,1 @@
+Thank you for downloading the RL-Glue installer program for Intel Mac.  This program will require an administrator password, and will install the RL-Glue binaries, headers, and libraries to /usr/local.

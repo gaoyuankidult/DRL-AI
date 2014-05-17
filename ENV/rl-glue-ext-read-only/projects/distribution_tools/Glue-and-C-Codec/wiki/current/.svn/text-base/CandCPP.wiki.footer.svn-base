@@ -1,0 +1,27 @@
+= Source Distribution Quick Install Guide =
+<code language="bsh">
+#Unpack the files
+> tar -zxf c-codec-2.0-RC-FINAL-1.tar.gz
+
+#Change to unpacked directory
+> cd /path/to/c-codec-2.0-RC-FINAL-1
+
+#Configure the installation (for advanced options see the manual)
+> ./configure
+
+#Build the software
+> make
+
+#Install the software (requires admin privileges)
+> sudo make install
+</code>
+
+= Official Documentation =
+ * C/C++ Codec Manual [http://rl-glue-ext.googlecode.com/svn/trunk/projects/codecs/C/docs/html/index.html (HTML)] [http://rl-glue-ext.googlecode.com/svn/trunk/projects/codecs/C/docs/C-Codec.pdf (PDF)] 
+
+= C/C++ Codec Homepage =
+For more information about the C/C++ codec, and others, please visit the RL-Glue homepage:
+[http://glue.rl-community.org]
+
+And the C/C++ Codec Homepage:
+[http://glue.rl-community.org/Home/Extensions/c-c-codec]

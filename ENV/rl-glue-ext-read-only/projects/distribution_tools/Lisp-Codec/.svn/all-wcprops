@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/841/trunk/projects/distribution_tools/Lisp-Codec
+END
+substitute-lisp-strings.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/837/trunk/projects/distribution_tools/Lisp-Codec/substitute-lisp-strings.py
+END
+Lisp.wiki.template
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/841/trunk/projects/distribution_tools/Lisp-Codec/Lisp.wiki.template
+END
+setup.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/837/trunk/projects/distribution_tools/Lisp-Codec/setup.lisp
+END
+download-lisp.bash
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/837/trunk/projects/distribution_tools/Lisp-Codec/download-lisp.bash
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/692/trunk/projects/codecs/Matlab/examples/skeleton
+END
+skeleton_environment.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/637/trunk/projects/codecs/Matlab/examples/skeleton/skeleton_environment.m
+END
+runAllTogether.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/637/trunk/projects/codecs/Matlab/examples/skeleton/runAllTogether.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/692/trunk/projects/codecs/Matlab/examples/skeleton/README.txt
+END
+skeleton_agent.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/637/trunk/projects/codecs/Matlab/examples/skeleton/skeleton_agent.m
+END
+skeleton_experiment.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/637/trunk/projects/codecs/Matlab/examples/skeleton/skeleton_experiment.m
+END

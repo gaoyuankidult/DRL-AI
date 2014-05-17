@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates
+END
+RLGlueCore.wiki.fromsource.template
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/RLGlueCore.wiki.fromsource.template
+END
+RLGlueCore.wiki.macbinary.template
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/RLGlueCore.wiki.macbinary.template
+END
+RLGlueCore.wiki.debian32.template
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/RLGlueCore.wiki.debian32.template
+END
+RLGlueCore.wiki.rpm64.template
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/RLGlueCore.wiki.rpm64.template
+END
+CandCPP.wiki.rpm32.template
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/CandCPP.wiki.rpm32.template
+END
+CandCPP.wiki.fromsource.template
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/CandCPP.wiki.fromsource.template
+END
+RLGlueCore.wiki.windows.template
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/RLGlueCore.wiki.windows.template
+END
+RLGlueCore.wiki.debian64.template
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/782/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/RLGlueCore.wiki.debian64.template
+END
+CandCPP.wiki.debian32.template
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/CandCPP.wiki.debian32.template
+END
+CandCPP.wiki.rpm64.template
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/CandCPP.wiki.rpm64.template
+END
+CandCPP.wiki.debian64.template
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/CandCPP.wiki.debian64.template
+END
+RLGlueCore.wiki.rpm32.template
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/810/trunk/projects/distribution_tools/Glue-and-C-Codec/wiki/templates/RLGlueCore.wiki.rpm32.template
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/763/trunk/projects/distribution_tools/Java-Codec
+END
+substitute-java-strings.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/545/trunk/projects/distribution_tools/Java-Codec/substitute-java-strings.py
+END
+Java.wiki.template
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/763/trunk/projects/distribution_tools/Java-Codec/Java.wiki.template
+END
+download-java.bash
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/736/trunk/projects/distribution_tools/Java-Codec/download-java.bash
+END

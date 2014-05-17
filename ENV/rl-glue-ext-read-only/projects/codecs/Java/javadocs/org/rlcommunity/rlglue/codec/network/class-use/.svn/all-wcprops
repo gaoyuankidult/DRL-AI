@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/802/trunk/projects/codecs/Java/javadocs/org/rlcommunity/rlglue/codec/network/class-use
+END
+Network.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/802/trunk/projects/codecs/Java/javadocs/org/rlcommunity/rlglue/codec/network/class-use/Network.html
+END
+ClientAgent.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/802/trunk/projects/codecs/Java/javadocs/org/rlcommunity/rlglue/codec/network/class-use/ClientAgent.html
+END
+ClientEnvironment.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/802/trunk/projects/codecs/Java/javadocs/org/rlcommunity/rlglue/codec/network/class-use/ClientEnvironment.html
+END
+RLGlueDisconnectException.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/802/trunk/projects/codecs/Java/javadocs/org/rlcommunity/rlglue/codec/network/class-use/RLGlueDisconnectException.html
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/483/trunk/projects/codecs/Lisp/test/functional/test-init-cleanup
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/483/trunk/projects/codecs/Lisp/test/functional/test-init-cleanup/config
+END
+test-init-cleanup-experiment.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/408/trunk/projects/codecs/Lisp/test/functional/test-init-cleanup/test-init-cleanup-experiment.lisp
+END

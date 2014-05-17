@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/864/trunk/projects/codecs/Python/src/rlglue
+END
+versions.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/738/trunk/projects/codecs/Python/src/rlglue/versions.py
+END
+RLGlue.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/473/trunk/projects/codecs/Python/src/rlglue/RLGlue.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/446/trunk/projects/codecs/Python/src/rlglue/__init__.py
+END
+types.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/446/trunk/projects/codecs/Python/src/rlglue/types.py
+END

@@ -1,0 +1,10 @@
+
+  [FILE-LINK C/C++ Codec .deb package (64-bit) VERSION] [DETAILS-LINK (File Details)]
+
+This is an Debian/Ubuntu package with familiar installer procedure that will install RL-Glue C/C++ Codec.
+
+It contains:
+  * Installer package (.deb) for pre-compiled libraries and headers
+  * Can be uninstalled with apt
+  * The documentation for the C/C++ codec (HTML)
+  * The examples for C/C++ codec

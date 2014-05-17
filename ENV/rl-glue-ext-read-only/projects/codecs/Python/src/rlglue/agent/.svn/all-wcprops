@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/473/trunk/projects/codecs/Python/src/rlglue/agent
+END
+AgentLoader.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/473/trunk/projects/codecs/Python/src/rlglue/agent/AgentLoader.py
+END
+AgentLoaderScript.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/446/trunk/projects/codecs/Python/src/rlglue/agent/AgentLoaderScript.py
+END
+ClientAgent.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/446/trunk/projects/codecs/Python/src/rlglue/agent/ClientAgent.py
+END
+Agent.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/446/trunk/projects/codecs/Python/src/rlglue/agent/Agent.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/446/trunk/projects/codecs/Python/src/rlglue/agent/__init__.py
+END

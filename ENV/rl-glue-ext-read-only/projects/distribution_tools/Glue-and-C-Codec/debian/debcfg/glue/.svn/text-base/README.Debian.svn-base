@@ -1,0 +1,13 @@
+RL-Glue for Debian
+-----------------
+
+This Debian binary package provides a convenient and consistent
+way for installing RL-Glue in Debian GNU/Linux and derivatives.
+The package includes documentation and examples, the latter in
+compressed tar.gz format. The documents are also registered in
+the doc-base system, so that users can easily find them, using
+any online documentation system available in Debian (eg. dhelp,
+dwww or doc-central). For any Debian-specific issues, feel free
+to contact the package maintainer via the e-mail address below. 
+
+ -- Iordanis Daroglou <idaroglo@csd.auth.gr>  Wed, 11 Feb 2009 03:20:37 +0200

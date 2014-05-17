@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/798/trunk/projects/codecs/Matlab/src/environment
+END
+disconnectEnvironment.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/798/trunk/projects/codecs/Matlab/src/environment/disconnectEnvironment.m
+END
+connectEnvironment.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/637/trunk/projects/codecs/Matlab/src/environment/connectEnvironment.m
+END
+runEnvironmentLoop.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/637/trunk/projects/codecs/Matlab/src/environment/runEnvironmentLoop.m
+END
+runEnvironment.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/637/trunk/projects/codecs/Matlab/src/environment/runEnvironment.m
+END

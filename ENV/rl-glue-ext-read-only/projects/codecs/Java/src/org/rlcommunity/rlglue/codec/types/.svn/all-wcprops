@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/types
+END
+Reward_observation_action_terminal.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/types/Reward_observation_action_terminal.java
+END
+Observation_action.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/types/Observation_action.java
+END
+Reward_observation_terminal.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/types/Reward_observation_terminal.java
+END
+Observation.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/types/Observation.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/types/Action.java
+END
+RL_abstract_type.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/types/RL_abstract_type.java
+END

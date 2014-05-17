@@ -1,0 +1,4 @@
+==All Platforms : Source Distribution==
+  [FILE-LINK C/C++ Codec Source Distribution VERSION (.tar.gz)] [DETAILS-LINK (File Details)]
+ This is a platform-independent project that was built using the GNU Autotools.  It should install on most Linux and Unix platforms, including Mac OS X (Intel and PowerPC) and on Microsoft Windows under Cygwin.
+

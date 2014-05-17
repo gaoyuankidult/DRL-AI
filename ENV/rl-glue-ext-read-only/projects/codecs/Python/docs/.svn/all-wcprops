@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/684/trunk/projects/codecs/Python/docs
+END
+PythonCodec.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/684/trunk/projects/codecs/Python/docs/PythonCodec.pdf
+END
+PythonCodec.tex
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/684/trunk/projects/codecs/Python/docs/PythonCodec.tex
+END
+makeDocs.bash
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/260/trunk/projects/codecs/Python/docs/makeDocs.bash
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1003/trunk/projects/packages/examples/mines-sarsa-java
+END
+SampleExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/991/trunk/projects/packages/examples/mines-sarsa-java/SampleExperiment.java
+END
+SampleMinesEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/998/trunk/projects/packages/examples/mines-sarsa-java/SampleMinesEnvironment.java
+END
+RunMinesSarsaExperimentNoSockets.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/991/trunk/projects/packages/examples/mines-sarsa-java/RunMinesSarsaExperimentNoSockets.java
+END
+SampleSarsaAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/991/trunk/projects/packages/examples/mines-sarsa-java/SampleSarsaAgent.java
+END
+RunMinesSarsaExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/991/trunk/projects/packages/examples/mines-sarsa-java/RunMinesSarsaExperiment.java
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1003/trunk/projects/packages/examples/mines-sarsa-java/README.txt
+END

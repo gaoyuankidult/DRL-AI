@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/483/trunk/projects/codecs/Lisp/test/functional/test-1
+END
+test-1-agent.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/408/trunk/projects/codecs/Lisp/test/functional/test-1/test-1-agent.lisp
+END
+test-1-experiment.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/408/trunk/projects/codecs/Lisp/test/functional/test-1/test-1-experiment.lisp
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/483/trunk/projects/codecs/Lisp/test/functional/test-1/config
+END
+test-1-environment.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/408/trunk/projects/codecs/Lisp/test/functional/test-1/test-1-environment.lisp
+END

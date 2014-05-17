@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/702/trunk/projects/codecs/C/docs
+END
+makeDocs.bash
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/228/trunk/projects/codecs/C/docs/makeDocs.bash
+END
+C-Codec.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/702/trunk/projects/codecs/C/docs/C-Codec.pdf
+END
+C-Codec.tex
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/702/trunk/projects/codecs/C/docs/C-Codec.tex
+END

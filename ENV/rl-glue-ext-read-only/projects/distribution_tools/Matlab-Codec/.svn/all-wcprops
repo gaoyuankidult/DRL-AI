@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/763/trunk/projects/distribution_tools/Matlab-Codec
+END
+substitute-matlab-strings.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/539/trunk/projects/distribution_tools/Matlab-Codec/substitute-matlab-strings.py
+END
+Matlab.wiki.template
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/763/trunk/projects/distribution_tools/Matlab-Codec/Matlab.wiki.template
+END
+download-matlab.bash
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/555/trunk/projects/distribution_tools/Matlab-Codec/download-matlab.bash
+END

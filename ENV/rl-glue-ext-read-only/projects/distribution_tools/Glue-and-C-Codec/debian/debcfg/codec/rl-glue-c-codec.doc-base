@@ -1,0 +1,15 @@
+Document: rl-glue-c-codec
+Title: Debian rl-glue-c-codec Manual
+Author: Brian Tanner <brian@tannerpages.com>
+Abstract: This manual describes what rl-glue-c-codec is
+ and how it can be used to create reinforcement learning
+ agents, environments, and experiments in C and C++
+ that are compatible with RL-Glue.
+Section: Programming
+
+Format: PDF
+Files: /usr/share/doc/rl-glue-c-codec/C-Codec.pdf.gz
+
+Format: HTML
+Index: /usr/share/doc/rl-glue-c-codec/html/index.html
+Files: /usr/share/doc/rl-glue-c-codec/html/*.html

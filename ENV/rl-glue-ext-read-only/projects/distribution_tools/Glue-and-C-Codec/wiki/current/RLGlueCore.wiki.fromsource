@@ -1,0 +1,4 @@
+==All Platforms : Source Distribution==
+  [http://rl-glue-ext.googlecode.com/files/rlglue-3.04.tar.gz RL-Glue Core Project Source Distribution 3.04 (.tar.gz)] [http://code.google.com/p/rl-glue-ext/downloads/detail?name=rlglue-3.04.tar.gz (File Details)]
+This is a platform-independent project that was built using the GNU Autotools.  It should install on most Linux and Unix platforms, including Mac OS X (Intel and PowerPC) and on Microsoft Windows under Cygwin.
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/698/trunk/projects/codecs/C/src
+END
+RL_client_environment.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/574/trunk/projects/codecs/C/src/RL_client_environment.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/698/trunk/projects/codecs/C/src/Makefile.in
+END
+RL_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/576/trunk/projects/codecs/C/src/RL_debug.c
+END
+RL_codec_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/574/trunk/projects/codecs/C/src/RL_codec_common.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/599/trunk/projects/codecs/C/src/Makefile.am
+END
+RL_client_agent.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/574/trunk/projects/codecs/C/src/RL_client_agent.c
+END
+RL_client_experiment.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/574/trunk/projects/codecs/C/src/RL_client_experiment.c
+END

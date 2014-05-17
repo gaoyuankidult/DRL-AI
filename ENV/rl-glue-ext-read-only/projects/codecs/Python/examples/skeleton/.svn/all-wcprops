@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/737/trunk/projects/codecs/Python/examples/skeleton
+END
+skeleton_agent.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/492/trunk/projects/codecs/Python/examples/skeleton/skeleton_agent.py
+END
+skeleton_experiment.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/446/trunk/projects/codecs/Python/examples/skeleton/skeleton_experiment.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/737/trunk/projects/codecs/Python/examples/skeleton/README.txt
+END
+skeleton_environment.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/492/trunk/projects/codecs/Python/examples/skeleton/skeleton_environment.py
+END

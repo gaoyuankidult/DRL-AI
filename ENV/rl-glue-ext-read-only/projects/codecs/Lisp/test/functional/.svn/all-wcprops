@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/746/trunk/projects/codecs/Lisp/test/functional
+END
+rl-tests-common.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/426/trunk/projects/codecs/Lisp/test/functional/rl-tests-common.lisp
+END
+rl-tests-package.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/408/trunk/projects/codecs/Lisp/test/functional/rl-tests-package.lisp
+END
+rl-glue-tests.asd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/746/trunk/projects/codecs/Lisp/test/functional/rl-glue-tests.asd
+END

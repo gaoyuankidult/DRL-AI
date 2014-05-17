@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1011/trunk/projects/packages/examples/mines-sarsa-python
+END
+sample_experiment.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/999/trunk/projects/packages/examples/mines-sarsa-python/sample_experiment.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1011/trunk/projects/packages/examples/mines-sarsa-python/README.txt
+END
+sample_sarsa_agent.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1011/trunk/projects/packages/examples/mines-sarsa-python/sample_sarsa_agent.py
+END
+sample_mines_environment.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/999/trunk/projects/packages/examples/mines-sarsa-python/sample_mines_environment.py
+END

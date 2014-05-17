@@ -1,0 +1,36 @@
+= Source Distribution Quick Install Guide =
+<code language="bsh">
+#Unpack the files
+> tar -zxf GLUE-DEV-FILE-BASE.tar.gz
+
+#Change to unpacked directory
+> cd /path/to/GLUE-DEV-FILE-BASE
+
+#Configure the installation (for advanced options see the manual)
+> ./configure
+
+#Build the software
+> make
+
+#Install the software (requires admin privileges)
+> sudo make install
+</code>
+
+= Official Documentation =
+ * RL-Glue Overview [http://rl-glue.googlecode.com/svn/trunk/docs/html/index.html (HTML)] [http://rl-glue.googlecode.com/svn/trunk/docs/Glue-Overview.pdf (PDF)]
+ * RL-Glue Technical Manual [http://rl-glue.googlecode.com/svn/trunk/docs/tech_html/index.html (HTML)] [http://rl-glue.googlecode.com/svn/trunk/docs/TechnicalManual.pdf (PDF)]
+
+= RL-Glue Core Homepage =
+For more information about RL-Glue and codecs, please visit the homepage:
+[http://glue.rl-community.org]
+
+And the RL-Glue Core Homepage:
+[http://glue.rl-community.org/Home/rl-glue]
+
+= Change Log =
+== Version 3.04 ==
+- Fixed a bug in the RL_network.c code where it would dereference a null pointer if an empty abstract type was sent into rlCopyADTToBuffer.  This bug would sometimes (some codecs) manifest if an episode was ended on the first call to env_step.  Thanks to Jason Williams for identifying this problem.
+
+= Past Versions =
+To list all past versions of the RLGlue Core project, go here:
+[http://code.google.com/p/rl-glue-ext/downloads/list?q=language:C]

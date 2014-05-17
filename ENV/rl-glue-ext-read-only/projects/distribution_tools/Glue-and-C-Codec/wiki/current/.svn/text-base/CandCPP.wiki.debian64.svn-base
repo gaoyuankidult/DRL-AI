@@ -1,0 +1,10 @@
+
+  [http://rl-glue-ext.googlecode.com/files/rl-glue-c-codec_2.0-1_amd64.deb C/C++ Codec .deb package (64-bit) 2.0] [http://code.google.com/p/rl-glue-ext/downloads/detail?name=rl-glue-c-codec_2.0-1_amd64.deb (File Details)]
+
+This is an Debian/Ubuntu package with familiar installer procedure that will install RL-Glue C/C++ Codec.
+
+It contains:
+  * Installer package (.deb) for pre-compiled libraries and headers
+  * Can be uninstalled with apt
+  * The documentation for the C/C++ codec (HTML)
+  * The examples for C/C++ codec

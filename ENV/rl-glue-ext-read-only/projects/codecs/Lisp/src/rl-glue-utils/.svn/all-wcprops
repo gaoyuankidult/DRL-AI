@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/src/rl-glue-utils
+END
+generic.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/409/trunk/projects/codecs/Lisp/src/rl-glue-utils/generic.lisp
+END
+rl-utils-package.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/734/trunk/projects/codecs/Lisp/src/rl-glue-utils/rl-utils-package.lisp
+END
+rl-glue-utils.asd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/746/trunk/projects/codecs/Lisp/src/rl-glue-utils/rl-glue-utils.asd
+END

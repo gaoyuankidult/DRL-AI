@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/342/trunk/projects/codecs/C/config
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/81/trunk/projects/codecs/C/config/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/342/trunk/projects/codecs/C/config/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/342/trunk/projects/codecs/C/config/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/342/trunk/projects/codecs/C/config/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/81/trunk/projects/codecs/C/config/install-sh
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/342/trunk/projects/codecs/C/config/config.h.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/81/trunk/projects/codecs/C/config/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/93/trunk/projects/codecs/C/config/compile
+END

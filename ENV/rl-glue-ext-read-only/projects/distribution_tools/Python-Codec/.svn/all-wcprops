@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/763/trunk/projects/distribution_tools/Python-Codec
+END
+download-python.bash
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/736/trunk/projects/distribution_tools/Python-Codec/download-python.bash
+END
+filesubstitution.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/728/trunk/projects/distribution_tools/Python-Codec/filesubstitution.py
+END
+substitute-python-strings.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/543/trunk/projects/distribution_tools/Python-Codec/substitute-python-strings.py
+END
+get_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/503/trunk/projects/distribution_tools/Python-Codec/get_version.py
+END
+do-python-release.bash
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/728/trunk/projects/distribution_tools/Python-Codec/do-python-release.bash
+END
+upload-wikis.bash
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/728/trunk/projects/distribution_tools/Python-Codec/upload-wikis.bash
+END
+coalesce-python-wiki.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/728/trunk/projects/distribution_tools/Python-Codec/coalesce-python-wiki.py
+END
+update-wiki-windows.bash
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/728/trunk/projects/distribution_tools/Python-Codec/update-wiki-windows.bash
+END
+update-wiki-partial-fromsource-user.bash
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/728/trunk/projects/distribution_tools/Python-Codec/update-wiki-partial-fromsource-user.bash
+END
+update-wiki-partial-fromsource-dev.bash
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/728/trunk/projects/distribution_tools/Python-Codec/update-wiki-partial-fromsource-dev.bash
+END
+prepare-windows-package.bash
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/736/trunk/projects/distribution_tools/Python-Codec/prepare-windows-package.bash
+END
+prepare-joint-wiki.bash
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/728/trunk/projects/distribution_tools/Python-Codec/prepare-joint-wiki.bash
+END
+Python.wiki.template
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/763/trunk/projects/distribution_tools/Python-Codec/Python.wiki.template
+END
+upload-fromsource-user.bash
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/728/trunk/projects/distribution_tools/Python-Codec/upload-fromsource-user.bash
+END
+upload-fromsource-dev.bash
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/728/trunk/projects/distribution_tools/Python-Codec/upload-fromsource-dev.bash
+END
+upload-winbinary.bash
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/728/trunk/projects/distribution_tools/Python-Codec/upload-winbinary.bash
+END

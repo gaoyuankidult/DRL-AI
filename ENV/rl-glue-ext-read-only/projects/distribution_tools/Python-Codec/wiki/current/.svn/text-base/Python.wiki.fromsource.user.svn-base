@@ -1,0 +1,8 @@
+ * [http://rl-glue-ext.googlecode.com/files/python-codec-2.02.tar.gz Python User Distribution 2.02] [http://code.google.com/p/rl-glue-ext/downloads/detail?name=python-codec-2.02.tar.gz (File Details)]
+ The *user* distribution is a no-nonsense distribution that most people will want to download.
+ It contains:
+   * src directory with setup.py script to install
+   * The documentation (PDF)
+   * The examples
+   * README file to get you started if you don't like manuals
+----

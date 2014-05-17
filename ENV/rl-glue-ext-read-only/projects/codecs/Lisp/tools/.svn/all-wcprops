@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/tools
+END
+run-all-unit-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/tools/run-all-unit-tests.sh
+END
+run-cross-test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/tools/run-cross-test.sh
+END
+common.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/732/trunk/projects/codecs/Lisp/tools/common.sh
+END
+run-random-cross-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/tools/run-random-cross-tests.sh
+END
+run-package-unit-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/tools/run-package-unit-tests.sh
+END
+run-all-functional-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/tools/run-all-functional-tests.sh
+END
+run-example.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/tools/run-example.sh
+END
+make-asdf-package.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/451/trunk/projects/codecs/Lisp/tools/make-asdf-package.sh
+END
+run-functional-test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/tools/run-functional-test.sh
+END

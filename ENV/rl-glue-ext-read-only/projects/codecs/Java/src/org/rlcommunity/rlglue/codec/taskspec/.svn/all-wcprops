@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/638/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec
+END
+TaskSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec/TaskSpec.java
+END
+TaskSpecVRLGLUE3.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/638/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec/TaskSpecVRLGLUE3.java
+END
+TaskSpecObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/638/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec/TaskSpecObject.java
+END
+TaskSpecVersionOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec/TaskSpecVersionOnly.java
+END
+TaskSpecV2.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/638/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec/TaskSpecV2.java
+END
+TaskSpecV3.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/638/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec/TaskSpecV3.java
+END
+TaskSpecDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec/TaskSpecDelegate.java
+END

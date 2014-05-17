@@ -1,0 +1,11 @@
+
+  [FILE-LINK  RL-Glue Core .deb package (64-bit) VERSION] [DETAILS-LINK (File Details)]
+
+This is an Debian/Ubuntu package with familiar installer procedure that will install RL-Glue Core
+
+It contains:
+  * Installer package (.deb) for pre-compiled libraries, headers, and rl_glue executable socket server.
+  * Can be uninstalled with apt
+  * The documentation for RL-Glue (HTML)
+  * Man page (man rl_glue)
+  * The examples for RL-Glue

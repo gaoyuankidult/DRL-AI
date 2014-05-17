@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/src/rl-glue-utils/task-spec-parser
+END
+task-spec-parser.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/src/rl-glue-utils/task-spec-parser/task-spec-parser.lisp
+END
+parser.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/430/trunk/projects/codecs/Lisp/src/rl-glue-utils/task-spec-parser/parser.lisp
+END
+range.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/734/trunk/projects/codecs/Lisp/src/rl-glue-utils/task-spec-parser/range.lisp
+END

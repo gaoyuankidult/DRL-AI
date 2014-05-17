@@ -1,0 +1,14 @@
+Document: rl-glue-overview
+Title: Debian rl-glue Overview Manual
+Author: Adam White <awhite@cs.ualberta.ca>
+Abstract: This piece of documentation describes
+ what rl-glue is and how it can be used to
+ conduct reinforcement learning experiments.
+Section: Programming
+
+Format: pdf
+Files: /usr/share/doc/rl-glue/Glue-Overview.pdf.gz
+
+Format: HTML
+Index: /usr/share/doc/rl-glue/html/index.html
+Files: /usr/share/doc/rl-glue/html/*.html

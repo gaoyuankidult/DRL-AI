@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/src/rl-glue-codec
+END
+rl-version.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/767/trunk/projects/codecs/Lisp/src/rl-glue-codec/rl-version.lisp
+END
+rl-glue-codec.asd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/746/trunk/projects/codecs/Lisp/src/rl-glue-codec/rl-glue-codec.asd
+END
+rl-common.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/842/trunk/projects/codecs/Lisp/src/rl-glue-codec/rl-common.lisp
+END
+rl-buffer.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/src/rl-glue-codec/rl-buffer.lisp
+END
+rl-network.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/408/trunk/projects/codecs/Lisp/src/rl-glue-codec/rl-network.lisp
+END
+rl-package.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/761/trunk/projects/codecs/Lisp/src/rl-glue-codec/rl-package.lisp
+END

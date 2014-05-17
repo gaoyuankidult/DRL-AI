@@ -1,0 +1,4 @@
+
+LISPBIN="ecl"
+LISP="${LISPBIN} -norc -q"
+

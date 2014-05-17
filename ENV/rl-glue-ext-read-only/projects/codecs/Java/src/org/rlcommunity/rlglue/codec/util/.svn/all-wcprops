@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/802/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/util
+END
+AgentLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/802/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/util/AgentLoader.java
+END
+EnvironmentLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/802/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/util/EnvironmentLoader.java
+END

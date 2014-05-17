@@ -1,0 +1,19 @@
+Source: rl-glue
+Section: devel
+Priority: extra
+Maintainer: Iordanis Daroglou <idaroglo@csd.auth.gr>
+Build-Depends: debhelper (>= 7), autotools-dev
+Standards-Version: 3.8.0
+Homepage: http://glue.rl-community.org/
+Vcs-Browser: http://rl-glue.googlecode.com/svn/trunk/
+
+Package: rl-glue
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: inter-language protocol for reinforcement learning experiments
+ RL-Glue (Reinforcement Learning Glue) provides a standard interface that allows
+ you to connect reinforcement learning agents, environments, and experiment 
+ programs together, even if they are written in different languages. This 
+ package provides the rl_glue  executable socket server that connects agents,
+ environment, and experiments together over POSIX sockets, as well as shared
+ network and utility libraries required for compiling RL-Glue components.

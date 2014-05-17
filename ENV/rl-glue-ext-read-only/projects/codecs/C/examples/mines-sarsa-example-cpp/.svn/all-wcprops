@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1006/trunk/projects/packages/examples/mines-sarsa-cpp
+END
+Makefile.agent
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1006/trunk/projects/packages/examples/mines-sarsa-cpp/Makefile.agent
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1006/trunk/projects/packages/examples/mines-sarsa-cpp/README.txt
+END
+SampleSarsaAgent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1004/trunk/projects/packages/examples/mines-sarsa-cpp/SampleSarsaAgent.cpp
+END
+Makefile.experiment
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1006/trunk/projects/packages/examples/mines-sarsa-cpp/Makefile.experiment
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1006/trunk/projects/packages/examples/mines-sarsa-cpp/Makefile
+END
+Makefile.environment
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1006/trunk/projects/packages/examples/mines-sarsa-cpp/Makefile.environment
+END
+SampleMinesEnvironment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1004/trunk/projects/packages/examples/mines-sarsa-cpp/SampleMinesEnvironment.cpp
+END
+SampleExperiment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1004/trunk/projects/packages/examples/mines-sarsa-cpp/SampleExperiment.cpp
+END

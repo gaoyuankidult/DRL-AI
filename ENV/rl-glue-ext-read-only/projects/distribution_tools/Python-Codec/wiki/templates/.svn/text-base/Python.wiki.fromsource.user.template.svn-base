@@ -1,0 +1,8 @@
+ * [FILE-LINK Python User Distribution VERSION] [DETAILS-LINK (File Details)]
+ The *user* distribution is a no-nonsense distribution that most people will want to download.
+ It contains:
+   * src directory with setup.py script to install
+   * The documentation (PDF)
+   * The examples
+   * README file to get you started if you don't like manuals
+----

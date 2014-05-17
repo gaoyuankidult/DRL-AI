@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/588/trunk/projects/codecs/Lisp/examples/mines-sarsa
+END
+experiment.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/588/trunk/projects/codecs/Lisp/examples/mines-sarsa/experiment.lisp
+END
+sarsa-agent.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/588/trunk/projects/codecs/Lisp/examples/mines-sarsa/sarsa-agent.lisp
+END
+mines.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/588/trunk/projects/codecs/Lisp/examples/mines-sarsa/mines.lisp
+END
+package.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/450/trunk/projects/codecs/Lisp/examples/mines-sarsa/package.lisp
+END

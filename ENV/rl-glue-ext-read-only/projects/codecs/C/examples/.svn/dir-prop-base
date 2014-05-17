@@ -1,0 +1,7 @@
+K 13
+svn:externals
+V 214
+mines-sarsa-example http://rl-library.googlecode.com/svn/trunk/projects/packages/examples/mines-sarsa-c
+mines-sarsa-example-cpp http://rl-library.googlecode.com/svn/trunk/projects/packages/examples/mines-sarsa-cpp
+
+END

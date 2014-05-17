@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1003/trunk/projects/packages/examples/mines-sarsa-matlab
+END
+sample_sarsa_agent.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1001/trunk/projects/packages/examples/mines-sarsa-matlab/sample_sarsa_agent.m
+END
+runAllTogether.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1001/trunk/projects/packages/examples/mines-sarsa-matlab/runAllTogether.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1003/trunk/projects/packages/examples/mines-sarsa-matlab/README.txt
+END
+sample_mines_environment.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1001/trunk/projects/packages/examples/mines-sarsa-matlab/sample_mines_environment.m
+END
+sample_experiment.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1001/trunk/projects/packages/examples/mines-sarsa-matlab/sample_experiment.m
+END

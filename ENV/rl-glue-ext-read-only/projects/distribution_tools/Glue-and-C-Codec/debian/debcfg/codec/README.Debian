@@ -1,0 +1,13 @@
+RL-Glue C codec for Debian
+--------------------------
+
+This package provides a convenient and consistent way for installing the C/C++
+programming language codec for RL-Glue, in Debian GNU/Linux and derivatives.
+This package includes all relevant documentation and examples, the latter in
+compressed tar.gz format. Following the tradition of the core RL-Glue Debian
+package, the documents are registered in the Debian doc-base system, so that
+users can easily find them, using any online documentation systems available
+in Debian, such as dhelp, dwww or doc-central. Please, feel free to contact
+the package maintainer via e-mail, should any Debian-specific issues arise.
+
+ -- Iordanis Daroglou <idaroglo@csd.auth.gr>  Thu, 05 Mar 2009 02:45:08 +0200

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/734/trunk/projects/codecs/Lisp/examples/skeleton
+END
+skeleton-agent.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/720/trunk/projects/codecs/Lisp/examples/skeleton/skeleton-agent.lisp
+END
+skeleton-experiment.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/732/trunk/projects/codecs/Lisp/examples/skeleton/skeleton-experiment.lisp
+END
+skeleton-environment.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/734/trunk/projects/codecs/Lisp/examples/skeleton/skeleton-environment.lisp
+END
+package.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/720/trunk/projects/codecs/Lisp/examples/skeleton/package.lisp
+END

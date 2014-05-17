@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/737/trunk/projects/codecs/C
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/699/trunk/projects/codecs/C/configure
+END
+HOWTORELEASE
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/232/trunk/projects/codecs/C/HOWTORELEASE
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/698/trunk/projects/codecs/C/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/699/trunk/projects/codecs/C/configure.ac
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/123/trunk/projects/codecs/C/bootstrap.sh
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/278/trunk/projects/codecs/C/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/338/trunk/projects/codecs/C/ChangeLog
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/698/trunk/projects/codecs/C/Makefile.am
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/698/trunk/projects/codecs/C/README.txt
+END
+LICENSE-2.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/423/trunk/projects/codecs/C/LICENSE-2.0.txt
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/576/trunk/projects/codecs/C/aclocal.m4
+END

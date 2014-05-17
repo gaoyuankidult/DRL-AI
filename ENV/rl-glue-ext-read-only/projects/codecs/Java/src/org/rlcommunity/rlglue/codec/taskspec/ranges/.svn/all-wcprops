@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec/ranges
+END
+AbstractRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec/ranges/AbstractRange.java
+END
+IntRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec/ranges/IntRange.java
+END
+DoubleRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/489/trunk/projects/codecs/Java/src/org/rlcommunity/rlglue/codec/taskspec/ranges/DoubleRange.java
+END

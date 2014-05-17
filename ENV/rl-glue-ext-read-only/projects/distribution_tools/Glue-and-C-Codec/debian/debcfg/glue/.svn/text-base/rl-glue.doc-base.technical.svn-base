@@ -1,0 +1,15 @@
+Document: rl-glue-technical
+Title: Debian RL-Glue Technical Manual
+Author: Brian Tanner <brian@tannerpages.com>
+Abstract: This piece of documentation describes
+ how to use RL-Glue when each of the agent,
+ environment, and experiment program is
+ written in C/C++.
+Section: Programming
+
+Format: pdf
+Files: /usr/share/doc/rl-glue/TechnicalManual.pdf.gz
+
+Format: HTML
+Index: /usr/share/doc/rl-glue/tech_html/index.html
+Files: /usr/share/doc/rl-glue/tech_html/*.html

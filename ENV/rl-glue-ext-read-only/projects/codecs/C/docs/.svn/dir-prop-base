@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 30
+*.aux
+*.log
+*.toc
+*.out
+*.idx
+
+END

@@ -1,0 +1,19 @@
+
+Change log of the Lisp codec
+
+$Revision$
+$Date$
+
+----- Lisp codec 1.1 (not released yet) ---------------------------------------
+
+    - Supporting ECL Lisp.
+
+----- Lisp codec 1.0 (2009-02-02) ---------------------------------------------
+
+    - Agent, environment and experiment interfaces.
+    - Socket communication with the RL-Glue core.
+    - Supporting RL-Glue-3.0 task specification parser.
+    - Supporting SBCL, CMUCL, Lispworks, Allegro, CLISP, Scieneer, CCL Lisps.
+    - Skeleton and mines-sarsa examples.
+    - Distributed as an ASDF library.
+

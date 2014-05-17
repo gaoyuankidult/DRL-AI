@@ -1,0 +1,21 @@
+Auto-debianized package - script by Iordanis Daroglou <idaroglo@csd.auth.gr>
+Procedure ran on: autodate.
+
+It was downloaded from http://code.google.com/p/rl-glue-ext/wiki/CandCPP
+
+Upstream Authors:
+	Andrew Butcher
+    Brian Tanner <brian@tannerpages.com>
+
+Copyright:
+
+    Copyright (C) 2009  Brian Tanner
+
+    The software is released under the terms of the Apache License 2.0. On Debian
+    systems the full text of the Apache License 2.0 can be found at:
+    /usr/share/common-licenses/Apache-2.0
+    Alternatively, it can be found in the WWW at:
+    http://www.apache.org/licenses/LICENSE-2.0
+
+The Debian packaging is copyright 2009, Iordanis Daroglou <idaroglo@csd.auth.gr> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.

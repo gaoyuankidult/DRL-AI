@@ -1,0 +1,10 @@
+
+  [FILE-LINK C/C++ Codec .rpm package (64-bit) VERSION] [DETAILS-LINK (File Details)]
+
+This is an RPM package with familiar installer procedure that will install RL-Glue C/C++ codec.
+
+It contains:
+  * Installer package (.rpm) for pre-compiled libraries and headers
+  * Can be uninstalled with rpm tools
+  * The documentation for the C/C++ codec (HTML)
+  * The examples for the C/C++ codec

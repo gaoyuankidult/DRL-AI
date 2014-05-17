@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/483/trunk/projects/codecs/Lisp/test/functional/test-speed
+END
+test-speed-experiment.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/426/trunk/projects/codecs/Lisp/test/functional/test-speed/test-speed-experiment.lisp
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/483/trunk/projects/codecs/Lisp/test/functional/test-speed/config
+END
+test-speed-environment.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/408/trunk/projects/codecs/Lisp/test/functional/test-speed/test-speed-environment.lisp
+END

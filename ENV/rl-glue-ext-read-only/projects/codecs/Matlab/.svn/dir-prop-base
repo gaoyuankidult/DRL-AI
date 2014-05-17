@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 79
+libs http://rl-glue-ext.googlecode.com/svn/trunk/projects/codecs/Java/products
+
+END

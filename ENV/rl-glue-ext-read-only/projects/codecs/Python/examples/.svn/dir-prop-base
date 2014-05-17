@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 109
+mines-sarsa-example http://rl-library.googlecode.com/svn/trunk/projects/packages/examples/mines-sarsa-python
+
+END

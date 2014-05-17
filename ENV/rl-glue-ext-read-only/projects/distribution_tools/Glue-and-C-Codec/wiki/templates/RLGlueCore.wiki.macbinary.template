@@ -1,0 +1,9 @@
+==Mac OS X : Disk Image (Intel Only)==
+  [FILE-LINK Mac OS X RL-Glue Core Project and C/C++ Codec Disk Image VERSION] [DETAILS-LINK (File Details)]
+This is an OS X disk image with familiar installer that will install both RL-Glue Core and the C/C++ Codec onto your Mac.  Intel Mac only. You do not need to install the C/C++ Codec separately if you use this option.
+It contains:
+  * Installer program (.pkg) for pre-compiled libraries, headers, and rl_glue executable socket server.
+  * Uninstall script for removing all of the above
+  * The documentation for RL-Glue and the C/C++ codec(PDF)
+  * The examples for RL-Glue and the C/C++ codec
+

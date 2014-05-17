@@ -1,0 +1,15 @@
+Source: rl-glue-c-codec
+Section: devel
+Priority: extra
+Maintainer: Iordanis Daroglou <idaroglo@csd.auth.gr>
+Build-Depends: debhelper (>= 7), autotools-dev, rl-glue (>= 3)
+Standards-Version: 3.8.0
+Homepage: http://glue.rl-community.org/Home/Extensions/c-c-codec
+Vcs-Browser: http://rl-glue-ext.googlecode.com/svn/trunk/codecs/C
+
+Package: rl-glue-c-codec
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, rl-glue (>= 3)
+Description: RL-Glue 3 codec for the C programming language
+ The C/C++ codec provides RL-Glue 3 socket compatibility for agents,
+ environments, and experiments written in the C or C++ programming languages.

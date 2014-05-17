@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/tools/config
+END
+lisp-ecl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/tools/config/lisp-ecl
+END
+lisp-cmucl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/451/trunk/projects/codecs/Lisp/tools/config/lisp-cmucl
+END
+lisp-sbcl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/451/trunk/projects/codecs/Lisp/tools/config/lisp-sbcl
+END
+init.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/862/trunk/projects/codecs/Lisp/tools/config/init.lisp
+END
+lisp-allegro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/451/trunk/projects/codecs/Lisp/tools/config/lisp-allegro
+END
+lisp-clisp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/451/trunk/projects/codecs/Lisp/tools/config/lisp-clisp
+END
+lisp-scieneer
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/451/trunk/projects/codecs/Lisp/tools/config/lisp-scieneer
+END
+lisp-lispworks
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/451/trunk/projects/codecs/Lisp/tools/config/lisp-lispworks
+END
+lisp-ccl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/451/trunk/projects/codecs/Lisp/tools/config/lisp-ccl
+END
