@@ -1,9 +1,3 @@
-.. -*- mode: rst -*-
-
-|Travis|_
-
-.. |Travis| image:: https://s3.amazonaws.com/coursera/topics/neuralnets/large-icon.png
-.. _Travis: google.com
 
 DRL-AI
 ============
