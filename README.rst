@@ -2,7 +2,7 @@
 DRL-AI
 ============
 
-This project is a implementation of the paper 
+This project is a CUDA implementation of the paper 
 
 Playing Atari with Deep Reinforcement Learning
 
