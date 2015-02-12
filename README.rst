@@ -14,6 +14,10 @@ Authors
 ---------------
 Yuan Gao & Yao Lu
 
+Required Libraries
+---------------------
+rl-glue, CUDA, cublas
+
 Compile
 ----------------
 | cd ENV/src/dnq_gpu
