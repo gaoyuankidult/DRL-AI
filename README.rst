@@ -14,4 +14,14 @@ Authors
 ---------------
 Yuan Gao & Yao Lu
 
-##Installation
+Compile
+----------------
+cd ENV/src/dnq_gpu
+make
+cd ../..
+make
+
+Run
+--------------------
+./ale 
+
