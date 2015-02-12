@@ -16,10 +16,10 @@ Yuan Gao & Yao Lu
 
 Compile
 ----------------
-cd ENV/src/dnq_gpu
-make
-cd ../..
-make
+|cd ENV/src/dnq_gpu
+|make
+|cd ../..
+|make
 
 Run
 --------------------
