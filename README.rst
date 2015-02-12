@@ -1,4 +1,5 @@
-#DRL-AI
+DRL-AI
+==========
 
 This project is a CUDA implementation of the paper 
 
@@ -9,7 +10,8 @@ NIPS workshop 2013
 
 However we have not get the result produced by the paper yet.
 
-##Authors
+Authors
+---------------
 Yuan Gao & Yao Lu
 
 ##Installation
