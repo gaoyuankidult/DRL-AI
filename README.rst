@@ -16,7 +16,7 @@ Yuan Gao & Yao Lu
 
 Required Libraries
 ---------------------
-rl-glue, CUDA, cublas
+rl-glue, SDL, SDL-image, CUDA, cublas
 
 Compile
 ----------------
@@ -25,7 +25,9 @@ Compile
 | cd ../..
 | make
 
-Run
+Run 
 --------------------
-./ale 
+| For example, to play game Breakout
+
+| ./ale -player_agent deep_q_agent -display_screen true breakout.bin
 
