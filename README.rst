@@ -26,7 +26,6 @@ Compile
 
 Run 
 --------------------
-| For example, to play game Breakout
-
+| *For example, to play game Breakout*
 | ./ale -player_agent deep_q_agent -display_screen true breakout.bin
 
