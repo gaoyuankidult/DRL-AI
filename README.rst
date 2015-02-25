@@ -23,13 +23,13 @@ Compile
    cd ENV/src/dnq_gpu
    make
    cd ../..
-
-| make
-| cd ../..
-| make
+   make
 
 Run 
 --------------------
 | *For example, to play game Breakout*
-| ./ale -player_agent deep_q_agent -display_screen true breakout.bin
+
+.. code-block:: c
+
+    ./ale -player_agent deep_q_agent -display_screen true breakout.bin
 
