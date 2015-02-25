@@ -27,7 +27,7 @@ Compile
 
 Run 
 --------------------
-For example, to play game Breakout
+For example, to play game *Breakout*
 
 .. code-block:: 
 
