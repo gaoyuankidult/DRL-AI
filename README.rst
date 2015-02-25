@@ -18,7 +18,8 @@ rl-glue, SDL, SDL-image, CUDA, cublas
 
 Compile
 ----------------
-| :code:'cd ENV/src/dnq_gpu'
+.. highlight:: c
+cd ENV/src/dnq_gpu
 | make
 | cd ../..
 | make
