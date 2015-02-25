@@ -18,7 +18,7 @@ rl-glue, SDL, SDL-image, CUDA, cublas
 
 Compile
 ----------------
-.. code-block:: c
+.. code-block:: 
 
    cd ENV/src/dnq_gpu
    make
@@ -29,7 +29,7 @@ Run
 --------------------
 | *For example, to play game Breakout*
 
-.. code-block:: c
+.. code-block:: 
 
     ./ale -player_agent deep_q_agent -display_screen true breakout.bin
 
